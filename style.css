@@ -1,0 +1,36 @@
+.logo {
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+    padding-left: 800px;
+}
+
+.header {
+    margin-top: -20px;
+}
+
+.categorias {
+    border: solid 2px black;
+    width: 250px;
+    height: 550px;
+    background-color:black;
+    color: white;
+    margin-top: -7px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+
+.imagens {
+    margin-top: -550px;
+}
+
+
+.suplementos {
+    width: 250px;
+    padding-left: 300px;
+    margin-top: 0;
+}
+
